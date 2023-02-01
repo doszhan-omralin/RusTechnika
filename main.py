@@ -1,2 +1,2 @@
 print("Hello Rustam!")
-print("Che tam") Huiiiiii
+print("Che tam") 
