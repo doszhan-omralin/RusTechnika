@@ -1,3 +1,3 @@
 print("Hello Rustam!")
-print("Che tam") 
-;l;l;l
+print("Che tam")
+print("Doszhan is here")
