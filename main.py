@@ -16,6 +16,9 @@ bot = telebot.TeleBot(API_TOKEN)
 def send_welcome(message):
     bot.reply_to(message, "Привет, Рустам!")
 
+@bot.message_handler(commands=['stop'])
+def send_goodbay(message):
+    bot.reply_to(message, "Пока, Рустам!")
 
 # Handle all other messages with content_type 'text' (content_types defaults to ['text'])
 @bot.message_handler(func=lambda message: True)
