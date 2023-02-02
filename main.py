@@ -14,6 +14,10 @@ def send_welcome(message):
 def send_goodbay(message):
     bot.reply_to(message, "Пока, Рустам!")
 
+@bot.message_handler(commands=['Добавить'])
+def send_goodbay(message):
+    bot.reply_to(message, "Вы успешно добавили новый материал")
+
 # Handle all other messages with content_type 'text' (content_types defaults to ['text'])
 @bot.message_handler(func=lambda message: True)
 def echo_message(message):
