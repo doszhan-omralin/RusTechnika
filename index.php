@@ -7,8 +7,13 @@
     <title>Car</title>
 </head>
 <body>
+
+
 <?php
-echo "Hello world"
+echo "Hello world";
+echo "ldpr is good";
 ?>
+
+
 </body>
 </html>
