@@ -11,7 +11,6 @@
 
 <?php
 echo "Hello world";
-echo "ldpr is good";
 ?>
 
 
