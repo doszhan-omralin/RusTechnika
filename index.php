@@ -11,7 +11,7 @@
 
 <?php
 echo "Hello world";
-echo "ldpr is go2222od";
+echo "ldpr is gsso2222od";
 ?>
 
 
