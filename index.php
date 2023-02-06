@@ -10,9 +10,7 @@
 
 
 <?php
-echo "Hello world";
-echo "ldpr issdf gsso2222od";
-?>
+echo "Hello world";?>
 
 
 </body>
