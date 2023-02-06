@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <!--ПИШИ КОД СЮДА--> 
+    <input type="button" name="О проекте" value="О проекте" />
 </body>
 </html>
