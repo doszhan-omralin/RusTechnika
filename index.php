@@ -15,7 +15,7 @@
 
 <header>
     <?php
-require_once("templates/header.php");
+require_once("header.php");
 ?>
 </header>
 
@@ -25,7 +25,7 @@ require_once("templates/header.php");
 
 <footer>
     <?php
-    require_once("templates/footer.php");
+    require_once("footer.php");
     ?>
 </footer>
 
