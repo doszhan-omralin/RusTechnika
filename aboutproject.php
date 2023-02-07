@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>rustechnica.ru</h1>
+    <h2>ggg</h2>
     <input type="button" name="o pro" value="Отправить" />
 
 </body>
