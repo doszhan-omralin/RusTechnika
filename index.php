@@ -21,6 +21,7 @@ require_once("header.php");
 <p>Hello, Azat!</p>
 <p>Hello, Kirill!</p>
 
+<img src="images\sultan.png" alt="Sultan.png">
 <footer>
     <?php
     require_once("footer.php");
