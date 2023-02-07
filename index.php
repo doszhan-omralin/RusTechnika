@@ -28,5 +28,7 @@ require_once("templates\header.php");
     require_once("templates\footer.php");
     ?>
 </footer>
+
+<script src="resources\scripts\main.js"></script>
 </body>
 </html>
