@@ -16,6 +16,17 @@
 
 <?php
 echo "Hello, Rustam!";?>
+<?php
+echo "Hello, Doszhan!";?>
+<?php
+echo "Hello, Timur!";?>
+<?php
+echo "Hello, Ernar!";?>
+<?php
+echo "Hello, Azat!";?>
+<?php
+echo "Hello, Kirill!";?>
+
 
 
 </body>
