@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <input type="button" name="О проекте" value="О проекте" />
+    <h1>О проекте</h1>
+    <input type="button" name="o pro" value="Отправить" />
+
 </body>
 </html>
