@@ -1,3 +1,3 @@
-<?php
-echo "footer";
-?>
+<div>
+    <!-- Write footer code here -->
+</div>

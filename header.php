@@ -1,5 +1,3 @@
-<p> That's: </p>
-
-<?php
-echo "header";
-?>
+<div>
+    <!-- Write header code here -->
+</div>
