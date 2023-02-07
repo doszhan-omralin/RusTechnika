@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>О проекте</h1>
+    <h1>rustechnica.ru</h1>
     <input type="button" name="o pro" value="Отправить" />
 
 </body>
