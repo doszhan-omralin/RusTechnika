@@ -16,7 +16,7 @@ require_once("header.php");
 </header>
 
 
-<h1>Authors: Rustam, Doszhan, Timur, Ernar, Kirill!</h1>
+<h1 style="color: white;">Authors: Rustam, Doszhan, Timur, Ernar, Kirill!</h1>
 
 
 
