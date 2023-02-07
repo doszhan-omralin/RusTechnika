@@ -14,12 +14,7 @@ require_once("header.php");
 ?>
 </header>
 
-<p>Hello, Rustam!</p>
-<p>Hello, Doszhan!</p>
-<p>Hello, Timur!</p>
-<p>Hello, Ernar!</p>
-<p>Hello, Azat!</p>
-<p>Hello, Kirill!</p>
+<p>Authors: Rustam, Doszhan, Timur, Ernar, Kirill!</p>
 
 <img src="images\sultan.png" alt="Sultan.png">
 <footer>
