@@ -1,8 +1,3 @@
-<?php require_once("header.php");
-      require_once("footer.php");
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,22 +7,23 @@
     <title>RusTechnica - сайт о техниках</title>
 </head>
 <body>
+<header>
+    <?php
+require_once("header.php");
+?>
+</header>
 
+<p>Hello, Rustam!</p>
+<p>Hello, Doszhan!</p>
+<p>Hello, Timur!</p>
+<p>Hello, Ernar!</p>
+<p>Hello, Azat!</p>
+<p>Hello, Kirill!</p>
 
-<?php
-echo "Hello, Rustam!";?>
-<?php
-echo "Hello, Doszhan!";?>
-<?php
-echo "Hello, Timur!";?>
-<?php
-echo "Hello, Ernar!";?>
-<?php
-echo "Hello, Azat!";?>
-<?php
-echo "Hello, Kirill!";?>
-
-
-
+<footer>
+    <?php
+    require_once("footer.php");
+    ?>
+</footer>
 </body>
 </html>
