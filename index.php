@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RusTechnica - сайт о техниках</title>
-    <link rel="stylesheet" и type="text/css" href = "resources\styles\main.css">
+    <link rel="stylesheet" и type="text/css" href = "resources/styles/main.css">
 </head>
 <body>
 
@@ -25,10 +25,10 @@ require_once("templates\header.php");
 
 <footer>
     <?php
-    require_once("templates\footer.php");
+    require_once("templates/footer.php");
     ?>
 </footer>
 
-<script src="resources\scripts\main.js"></script>
+<script src="resources/scripts/main.js"></script>
 </body>
 </html>
