@@ -9,7 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RusTechnica - сайт о техниках</title>
-    <link rel="stylesheet" и type="text/css" href = "resources/styles/main.css">
+    <link rel="stylesheet" href="resources/styles/main.css">
+    
 </head>
 <body>
 
@@ -19,9 +20,17 @@ require_once("header.php");
 ?>
 </header>
 
+<section>
+    <?php
+require_once("local-nav.php");
+?>
+</section>
 
-<h1 style="color: white;">Authors: Rustam, Doszhan, Timur, Ernar, Kirill!</h1>
-
+<article>
+<?php
+require_once("article.php");
+?>
+</article>
 
 <footer>
     <?php
