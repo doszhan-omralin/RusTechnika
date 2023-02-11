@@ -1,3 +1,3 @@
-<div>
-    <!-- Write footer code here -->
+<div class="footer">
+    
 </div>
