@@ -14,8 +14,7 @@
 <body>
 
 
-<?php
-echo "Hello, Rustдam!";?>
+
 
 <header>
     <?php
@@ -24,7 +23,19 @@ require_once("header.php");
 </header>
 
 <main>
-
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
+</div>
 </main>
 
 <footer>
