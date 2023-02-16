@@ -13,6 +13,10 @@
 </head>
 <body>
 
+
+<?php
+echo "Hello, Rustдam!";?>
+
 <header>
     <?php
 require_once("header.php");
