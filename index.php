@@ -19,17 +19,9 @@ require_once("header.php");
 ?>
 </header>
 
-<section>
-    <?php
-require_once("local-nav.php");
-?>
-</section>
+<main>
 
-<article>
-<?php
-require_once("article.php");
-?>
-</article>
+</main>
 
 <footer>
     <?php
